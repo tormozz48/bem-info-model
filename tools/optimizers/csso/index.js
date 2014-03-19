@@ -15,7 +15,7 @@ module.exports = {
                     summary: "Short introduction to CSSO.",
                     thumbnail: "",
                     authors: ["harisov-vitaly"],
-                    tags: ["tools", "css"],
+                    tags: ["csso","css"],
                     translators: ["khachaturov-leonid"],
                     content: "https://github.com/css/csso/tree/master/docs/index/index.en.md"
                 },
@@ -26,7 +26,7 @@ module.exports = {
                     summary: "Краткое введение в CSSO.",
                     thumbnail: "",
                     authors: ["harisov-vitaly"],
-                    tags: ["tools", "css"],
+                    tags: ["csso","css"],
                     translators: [],
                     content: "https://github.com/css/csso/tree/master/docs/index/index.ru.md"
                 }
@@ -59,7 +59,7 @@ var getDescription = function() {
                 summary: "CSSO (CSS Optimizer) is a CSS minimizer unlike others. In addition to usual minification techniques it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["tools", "css"],
+                tags: ["csso","css"],
                 translators: [],
                 content: "https://github.com/css/csso/tree/master/docs/description/description.en.md"
             },
@@ -70,7 +70,7 @@ var getDescription = function() {
                 summary: "CSSO (CSS Optimizer) является минимизатором CSS, выполняющим как минимизацию без изменения структуры, так и структурную минимизацию с целью получить как можно меньший текст.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["tools", "css"],
+                tags: ["csso","css"],
                 translators: [],
                 content: "https://github.com/css/csso/tree/master/docs/description/description.ru.md"
             }
@@ -97,7 +97,7 @@ var getInstallation = function() {
                 summary: "CSSO installation manual.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["tools", "css"],
+                tags: ["csso","css"],
                 translators: ["khachaturov-leonid"],
                 content: "https://github.com/css/csso/tree/master/docs/install/install.en.md"
             },
@@ -108,7 +108,7 @@ var getInstallation = function() {
                 summary: "Инструкция по установке CSSO.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["tools", "css"],
+                tags: ["csso","css"],
                 translators: [],
                 content: "https://github.com/css/csso/tree/master/docs/install/install.ru.md"
             }
@@ -135,7 +135,7 @@ var getUsage = function() {
                 summary: "Usage of CSSO.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["tools", "css"],
+                tags: ["csso","css"],
                 translators: ["khachaturov-leonid"],
                 content: "https://github.com/css/csso/tree/master/docs/usage/usage.en.md"
             },
@@ -146,7 +146,7 @@ var getUsage = function() {
                 summary: "Использование CSSO.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["tools", "css"],
+                tags: ["csso","css"],
                 translators: [],
                 content: "https://github.com/css/csso/tree/master/docs/usage/usage.ru.md"
             }

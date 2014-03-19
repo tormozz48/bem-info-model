@@ -85,7 +85,7 @@ var getBemupYac2013 = function() {
                 summary: "Second BEMup - during YaC 2013!",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM","BEMup"],
+                tags: ["news","bemup","yac"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bemup-yac2013/bemup-yac2013.en.md"
             },
@@ -96,7 +96,7 @@ var getBemupYac2013 = function() {
                 summary: "На YaC 2013, в рамках которого 2 октября 2013 года в павильоне фронтенда пройдет второй BEMup.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM","BEMup"],
+                tags: ["news","bemup","yac"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bemup-yac2013/bemup-yac2013.ru.md"
             }
@@ -123,7 +123,7 @@ var getBemTools064 = function() {
                 summary: "The stable bem-tools v0.6.4 is available.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","bem-tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bem-tools-0-6-4/bem-tools-0-6-4.en.md"
             },
@@ -134,7 +134,7 @@ var getBemTools064 = function() {
                 summary: "Стабильная версия bem-tools 0.6.4 доступна.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","bem-tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bem-tools-0-6-4/bem-tools-0-6-4.ru.md"
             }
@@ -161,7 +161,7 @@ var getBemupTalks = function() {
                 summary: "Videos from the first BEMup, that took place in Moscow on August 2, 2013.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM","BEMup"],
+                tags: ["bemup","video"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bemup-talks/bemup-talks.en.md"
             },
@@ -172,7 +172,7 @@ var getBemupTalks = function() {
                 summary: "2 августа 2013 года в московском Яндексе прошел первый митап по БЭМ — BEMup!.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM","BEMup"],
+                tags: ["bemup","video"],
                 "categories": [],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bemup-talks/bemup-talks.ru.md"
@@ -200,7 +200,7 @@ var getBemupPromo = function() {
                 summary: "BEMup, our first meetup about BEM was on August 2, in the Moscow office of Yandex.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM","BEMup"],
+                tags: ["bemup","video"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bemup-promo/bemup-promo.en.md"
             },
@@ -211,7 +211,7 @@ var getBemupPromo = function() {
                 summary: "2 августа в московском Яндексе прошел первый митап по БЭМ — BEMup!.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM","BEMup"],
+                tags: ["bemup","video"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bemup-promo/bemup-promo.ru.md"
             }
@@ -276,7 +276,7 @@ var getBemup = function() {
                 summary: "Meetup will take place in Moscow on August 2, 2013.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM","BEMup"],
+                tags: ["bemup","ya.subbotnik"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bemup/bemup.en.md"
             },
@@ -287,7 +287,7 @@ var getBemup = function() {
                 summary: "2 августа 2013 года, в пятницу, в московском Яндексе состоится первый митап по БЭМ!.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM","BEMup"],
+                tags: ["bemup","ya.subbotnik"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bemup/bemup.ru.md"
             }
@@ -314,7 +314,7 @@ var getBemCli = function() {
                 summary: "Mikhail Davydov wrote a tool called bem-cli that launches locally installed bem-tools.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","tools","bem-tools"],
+                tags: ["news","bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bem-cli/bem-cli.en.md"
             },
@@ -325,7 +325,7 @@ var getBemCli = function() {
                 summary: "Михаил Давыдов написал инструмент bem-cli, который может запускать локально установленный bem-tools.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","tools","bem-tools"],
+                tags: ["news","bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/bem-cli/bem-cli.ru.md"
             }
@@ -390,7 +390,7 @@ var getAnygridBemNotations = function() {
                 summary: "Vasya Aksyonov developed a great project — CSS Grids Generator called AnyGrid.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["css","news"],
+                tags: ["news","css"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/anygrid-bem-notations/anygrid-bem-notations.en.md"
             },
@@ -428,7 +428,7 @@ var get201302MaintainableFrontendDevWithBem = function() {
                 summary: "In this presentation given at MetaRefresh 2013 in Bangalore you will learn more about BEM and how this actually works.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM"],
+                tags: ["news","metarefresh","video"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/2013-02-maintainable-frontend-dev-with-bem/2013-02-maintainable-frontend-dev-with-bem.en.md"
             },
@@ -439,7 +439,7 @@ var get201302MaintainableFrontendDevWithBem = function() {
                 summary: "Подробности о том, что такое БЭМ и как работает этот подход, вы узнаете из доклада Варвары Степановой на конференции MetaRefresh 2013 в Бангалоре.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM"],
+                tags: ["news","metarefresh","video"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/2013-02-maintainable-frontend-dev-with-bem/2013-02-maintainable-frontend-dev-with-bem.ru.md"
             }
@@ -466,7 +466,7 @@ var get201302BemGoesToIndia = function() {
                 summary: "Maintainable Fronted Development with BEM at Meta Refresh 2013 in India.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM"],
+                tags: ["news","metarefresh","video"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/2013-02-bem-goes-to-india/2013-02-bem-goes-to-india.en.md"
             },
@@ -477,7 +477,7 @@ var get201302BemGoesToIndia = function() {
                 summary: "Разработка «без потерь» по БЭМ на конференции Meta Refresh 2013 в Индии.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["news","BEM"],
+                tags: ["news","metarefresh","video"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/news/2013-02-bem-goes-to-india/2013-02-bem-goes-to-india.ru.md"
             }

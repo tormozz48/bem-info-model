@@ -116,7 +116,7 @@ var getMigration = function() {
                 summary: "Миграция на bem-core.",
                 thumbnail: "",
                 authors: ["filatov-dmitry"],
-                tags: ["bem-core"],
+                tags: ["bem-core","i-bem"],
                 translators: [],
                 content: "https://github.com/bem/bem-core/tree/v1.2.0/MIGRATION.ru.md"
             }

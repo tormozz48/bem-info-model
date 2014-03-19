@@ -15,7 +15,7 @@ module.exports = {
                     summary: "A short guide to borschik.",
                     thumbnail: "",
                     authors: ["androsov-alexey"],
-                    tags: ["tools", "borschik"],
+                    tags: ["borschik"],
                     translators: [],
                     content: "https://github.com/bem/borschik/tree/master/docs/index/index.en.md"
                 },
@@ -26,7 +26,7 @@ module.exports = {
                     summary: "Инструкция по использованию borschik.",
                     thumbnail: "",
                     authors: ["androsov-alexey"],
-                    tags: ["tools", "borschik"],
+                    tags: ["borschik"],
                     translators: [],
                     content: "https://github.com/bem/borschik/tree/master/docs/index/index.ru.md"
                 }
@@ -61,7 +61,7 @@ var getFreeze = function() {
                 summary: "borschik technique for static resource loading.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik/tree/master/docs/freeze/freeze.en.md"
             },
@@ -73,7 +73,7 @@ var getFreeze = function() {
                 summary: "\"freeze\" - способ оптимизации загрузки статики предлагаемый borschik.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik/tree/master/docs/freeze/freeze.ru.md"
             }
@@ -100,7 +100,7 @@ var getWhereIsMyTech = function() {
                 summary: "How borschik resolves technologies.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik/tree/master/docs/where-is-my-tech/where-is-my-tech.en.md"
             },
@@ -111,7 +111,7 @@ var getWhereIsMyTech = function() {
                 summary: "Как borschik собирает технологии.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik/tree/master/docs/where-is-my-tech/where-is-my-tech.ru.md"
             }
@@ -135,7 +135,7 @@ var getborschikServer = function() {
                 summary: "Short description of borschik-server.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik-server/tree/master/README.md"
             },
@@ -146,7 +146,7 @@ var getborschikServer = function() {
                 summary: "Краткое описание borschik-server.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik-server/tree/master/README.ru.md"
             }
@@ -173,7 +173,7 @@ var getChangelog = function() {
                 summary: "borschik changelog.",
                 thumbnail: "",
                 authors: ["androsov-alexey", "belov-sergey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik/tree/master/CHANGELOG.md"
             },
@@ -184,7 +184,7 @@ var getChangelog = function() {
                 summary: "borschik changelog.",
                 thumbnail: "",
                 authors: ["androsov-alexey", "belov-sergey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik/tree/master/CHANGELOG.md"
             }
@@ -211,7 +211,7 @@ var getJsInclude = function() {
                 summary: "borschik can merge JS files. But there is no standard method for this in Javascript so borschik uses the syntax described in this article.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik/tree/master/docs/js-include/js-include.en.md"
             },
@@ -222,7 +222,7 @@ var getJsInclude = function() {
                 summary: "borschik может объединять JS файлы, однако для этого в JavaScript не существует стандартных методов. Данная статья описывает синтаксис JS include для borschik.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools", "borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/borschik/tree/master/docs/js-include/js-include.ru.md"
             }

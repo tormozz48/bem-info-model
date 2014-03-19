@@ -15,7 +15,7 @@ module.exports = {
                     summary: "Extensible JavaScript Transformations (XJST) is a DSL for universal data transformations with compiler written on top of the node.js and ometajs and output code working in any browser or on server-side.",
                     thumbnail: "",
                     authors: ["indutny-fedor"],
-                    tags: ["tools"],
+                    tags: ["xjst"],
                     translators: [],
                     content: "https://github.com/veged/xjst/tree/master/README.md"
                 },
@@ -26,7 +26,7 @@ module.exports = {
                     summary: "Extensible JavaScript Transformations (XJST) - это предметно-ориентированный язык для универсальной трансформации данных с помощью компиляторов, работающих поверх node.js и ometajs, и генерирующих код, работающий в любом браузере или на серверной стороне.",
                     thumbnail: "",
                     authors: ["indutny-fedor"],
-                    tags: ["tools"],
+                    tags: ["xjst"],
                     translators: [],
                     content: "https://github.com/veged/xjst/tree/master/README.ru.md"
                 }

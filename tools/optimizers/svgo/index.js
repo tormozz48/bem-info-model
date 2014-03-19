@@ -34,7 +34,7 @@ var getHowItWorks = function() {
                 summary: "An exciting story about how SVG Optimizer works.",
                 thumbnail: "",
                 authors: ["belevich-kir"],
-                tags: ["tools"],
+                tags: ["svgo"],
                 translators: [],
                 content: "https://github.com/svg/svgo/tree/beminfo/docs/how-it-works/how-it-works.en.md"
             },
@@ -45,7 +45,7 @@ var getHowItWorks = function() {
                 summary: "Увлекательный рассказ о том как работает SVGO.",
                 thumbnail: "",
                 authors: ["belevich-kir"],
-                tags: ["tools"],
+                tags: ["svgo"],
                 translators: [],
                 content: "https://github.com/svg/svgo/tree/beminfo/docs/how-it-works/how-it-works.ru.md"
             }
@@ -69,7 +69,7 @@ var getSvgo = function() {
                 summary: "SVG Optimizer is a NodeJS-based tool for optimizing SVG vector graphics files.",
                 thumbnail: "http://soulshine.in/svgo.svg",
                 authors: ["belevich-kir"],
-                tags: ["tools"],
+                tags: ["svgo"],
                 translators: [],
                 content: "https://github.com/svg/svgo/tree/beminfo/docs/svgo/svgo.en.md"
             },
@@ -80,7 +80,7 @@ var getSvgo = function() {
                 summary: "SVG Optimizer  — это инструмент для оптимизации векторной графики в формате SVG, написанный на Node.js.",
                 thumbnail: "http://soulshine.in/svgo.svg",
                 authors: ["belevich-kir"],
-                tags: ["tools"],
+                tags: ["svgo"],
                 translators: [],
                 content: "https://github.com/svg/svgo/tree/beminfo/docs/svgo/svgo.ru.md"
             }

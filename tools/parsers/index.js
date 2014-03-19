@@ -34,7 +34,7 @@ var getGonzales = function() {
                 summary: "Gonzales is fast CSS parser.",
                 thumbnail: "http://soulshine.in/svgo.svg",
                 authors: ["kryzhanovsky-sergey"],
-                tags: ["tools", "css"],
+                tags: [],
                 translators: [""],
                 content: "https://github.com/css/gonzales/tree/master/README.md"
             },
@@ -45,7 +45,7 @@ var getGonzales = function() {
                 summary: "Gonzales — быстрый парсер CSS.",
                 thumbnail: "http://soulshine.in/svgo.svg",
                 authors: ["kryzhanovsky-sergey"],
-                tags: ["tools", "css"],
+                tags: [],
                 translators: [""],
                 content: "https://github.com/css/gonzales/tree/master/README.ru.md"
             }

@@ -19,7 +19,7 @@ module.exports = {
                     summary: "",
                     thumbnail: "",
                     authors: ["grinenko-vladimir"],
-                    tags: ["libs"],
+                    tags: ["overview"],
                     translators: [],
                     content: "https://github.com/bem/bem-method/tree/bem-info-data/libs/index/index.en.md"
                 },
@@ -30,7 +30,7 @@ module.exports = {
                     summary: "",
                     thumbnail: "",
                     authors: ["grinenko-vladimir"],
-                    tags: ["libs"],
+                    tags: ["overview"],
                     translators: [],
                     content: "https://github.com/bem/bem-method/tree/bem-info-data/libs/index/index.ru.md"
                 }

@@ -19,7 +19,7 @@ module.exports = {
                     summary: "Tutorials for BEM methodology.",
                     thumbnail: "",
                     authors: ["stepanova-varvara"],
-                    tags: ["BEM"],
+                    tags: ["overview"],
                     translators: ["stepanova-varvara"],
                     content: "https://github.com/bem/bem-method/tree/bem-info-data/tutorials/index/index.en.md"
                 },
@@ -30,7 +30,7 @@ module.exports = {
                     summary: "Предисловие к туториалам.",
                     thumbnail: "",
                     authors: ["stepanova-varvara"],
-                    tags: ["BEM"],
+                    tags: ["overview"],
                     translators: [],
                     content: "https://github.com/bem/bem-method/tree/bem-info-data/tutorials/index/index.ru.md"
                 }

@@ -17,7 +17,7 @@ module.exports = {
                     summary: "Foreword to BEM methodology.",
                     thumbnail: "",
                     authors: ["harisov-vitaly"],
-                    tags: ["BEM"],
+                    tags: ["methodology","overview"],
                     translators: ["belov-sergey"],
                     content: "https://github.com/bem/bem-method/tree/bem-info-data/method/index/index.en.md"
                 },
@@ -28,7 +28,7 @@ module.exports = {
                     summary: "Предисловие к БЭМ методологии.",
                     thumbnail: "",
                     authors: ["harisov-vitaly"],
-                    tags: ["BEM"],
+                    tags: ["methodology","overview"],
                     translators: [],
                     content: "https://github.com/bem/bem-method/tree/bem-info-data/method/index/index.ru.md"
                 }
@@ -61,7 +61,7 @@ var getDefinitions = function() {
                 summary: "Definitions of BEM methodology.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["BEM"],
+                tags: ["methodology","overview"],
                 translators: ["grinenko-vladimir"],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/method/definitions/definitions.en.md"
             },
@@ -72,7 +72,7 @@ var getDefinitions = function() {
                 summary: "Определения БЭМ методологии.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["BEM"],
+                tags: ["methodology","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/method/definitions/definitions.ru.md"
             }
@@ -99,7 +99,7 @@ var getFileSystem = function() {
                 summary: "Filesystem according to BEM methodology.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["BEM"],
+                tags: ["methodology","overview"],
                 translators: ["belov-sergey"],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/method/filesystem/filesystem.en.md"
             },
@@ -110,7 +110,7 @@ var getFileSystem = function() {
                 summary: "Организация файловой системы согласно БЭМ-методологии.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["BEM"],
+                tags: ["methodology","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/method/filesystem/filesystem.ru.md"
             }
@@ -137,7 +137,7 @@ var getHistory = function() {
                 summary: "The history of BEM.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["BEM"],
+                tags: ["methodology","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/method/history/history.en.md"
             },
@@ -148,7 +148,7 @@ var getHistory = function() {
                 summary: "История создания БЭМ.",
                 thumbnail: "",
                 authors: ["harisov-vitaly"],
-                tags: ["BEM"],
+                tags: ["methodology","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/method/history/history.ru.md"
             }

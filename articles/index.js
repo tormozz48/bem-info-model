@@ -42,7 +42,7 @@ var getStartWithProjectStub = function() {
                 summary: "This article shows you how to develop an online shop web page using BEM principles in CSS, JavaScript and BEMHTML templates.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["BEM", "bem-tools","tools","i-bem"],
+                tags: ["methodology","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/start-with-project-stub/start-with-project-stub.en.md"
             },
@@ -53,7 +53,7 @@ var getStartWithProjectStub = function() {
                 summary: "Эта статья рассказывает о том, как создать проект с использованием БЭМ-технологий.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["BEM", "bem-tools","tools","i-bem"],
+                tags: ["methodology","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/start-with-project-stub/start-with-project-stub.ru.md"
             }
@@ -80,7 +80,7 @@ var getBemJsMainTerms = function() {
                 summary: "How to write client side JS using i-bem.js from bem-bl library.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["i-bem.js", "JavaScript"],
+                tags: ["i-bem","javascript","overview"],
                 translators: ["nekhaieva-aleksandra"],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/bem-js-main-terms/bem-js-main-terms.en.md"
             },
@@ -91,7 +91,7 @@ var getBemJsMainTerms = function() {
                 summary: "В стеке БЭМ-технологий есть блок i-bem библиотеки bem-bl. Его JavaScript-реализация использует предметную область БЭМ и позволяет насладиться всеми преимуществами разработки по принципам БЭМ не только программируя внешний вид компонент, но и их поведение.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["i-bem.js", "JavaScript"],
+                tags: ["i-bem","javascript","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/bem-js-main-terms/bem-js-main-terms.ru.md"
             }
@@ -118,7 +118,7 @@ var getYaMapsBem = function() {
                 summary: "Creation of the menu to show on a map different types of POI (geoobject collections) with help of Yandex.Maps API and BEM methodology.",
                 thumbnail: "",
                 authors: ["hananein-denis"],
-                tags: ["BEM", "API"],
+                tags: ["api"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/yamapsbem/yamapsbem.en.md"
             },
@@ -129,7 +129,7 @@ var getYaMapsBem = function() {
                 summary: "Cоздание меню для показа на карте организаций различных типов используя API Яндекс.Карт и БЭМ методологию.",
                 thumbnail: "",
                 authors: ["hananein-denis"],
-                tags: ["BEM", "API"],
+                tags: ["api"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/yamapsbem/yamapsbem.ru.md"
             }
@@ -156,7 +156,7 @@ var getFirmCardStory = function() {
                 summary: "An example of a simple map service built using the BEM methodology.",
                 thumbnail: "",
                 authors: ["geonya-andrey"],
-                tags: ["BEM","API"],
+                tags: ["api"],
                 translators: ["nekhaieva-aleksandra"],
                 content: "https://github.com/AndreyGeonya/firmCardStory/tree/master/docs/firm-card-story/firm-card-story.en.md"
             },
@@ -167,7 +167,7 @@ var getFirmCardStory = function() {
                 summary: "Пример реализации несложного картографического сервиса по БЭМ-методологии.",
                 thumbnail: "",
                 authors: ["geonya-andrey"],
-                tags: ["BEM","API"],
+                tags: ["api"],
                 translators: [],
                 content: "https://github.com/AndreyGeonya/firmCardStory/tree/master/docs/firm-card-story/firm-card-story.ru.md"
             }
@@ -191,7 +191,7 @@ var getBorschik = function() {
                 summary: "borschik is a simple but powerful builder for text-based file formats.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools","borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/borschik/borschik.en.md"
             },
@@ -202,7 +202,7 @@ var getBorschik = function() {
                 summary: "borschik — простой, но мощный сборщик файлов текстовых форматов.",
                 thumbnail: "",
                 authors: ["androsov-alexey"],
-                tags: ["tools","borschik"],
+                tags: ["borschik"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/borschik/borschik.ru.md"
             }
@@ -229,7 +229,7 @@ var getSmartCd = function() {
                 summary: "Find out how you can launch bem-tools faster right from the command line using smartcd.",
                 thumbnail: "",
                 authors: ["belov-sergey"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: ["nekhaieva-aleksandra"],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/smartcd/smartcd.en.md"
             },
@@ -240,7 +240,7 @@ var getSmartCd = function() {
                 summary: "Узнайте, как с помощью smartcd можно быстрее запустить bem-tools из коммандной строки.",
                 thumbnail: "",
                 authors: ["belov-sergey"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/smartcd/smartcd.ru.md"
             }
@@ -264,7 +264,7 @@ var getYandexFrontendDev = function() {
                 summary: "The article sums up Yandex over 7-year experience in finding solutions for efficient frontend development.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["BEM"],
+                tags: ["conf","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/yandex-frontend-dev/yandex-frontend-dev.en.md"
             },
@@ -275,7 +275,7 @@ var getYandexFrontendDev = function() {
                 summary: "This article shows you how to develop an online shop web page using BEM principles in CSS, JavaScript and BEMHTML templates. Статья доступна на английском языке.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["BEM"],
+                tags: ["conf","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/articles/yandex-frontend-dev/yandex-frontend-dev.ru.md"
             }
@@ -300,7 +300,7 @@ var getBemhtmlCacheExperimental = function() {
                 summary: "Cache parts of BEMHTML page by declaring cache keys in BEMJSON.",
                 thumbnail: "",
                 authors: ["indutny-fedor"],
-                tags: ["API"],
+                tags: ["api"],
                 translators: ["jetpyspayeva-yelena"],
                 content: "https://github.com/tormozz48/bem-core/tree/b1.1.0/common.docs/bemhtml-cache-experimental/bemhtml-cache-experimental.en.md"
             }

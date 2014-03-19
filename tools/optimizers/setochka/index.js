@@ -15,7 +15,7 @@ module.exports = {
                     summary: "setochka is a tool for splitting CSS-properties of the original CSS file into separate files. Also it can be used for the properties removing.",
                     thumbnail: "",
                     authors: ["kryzhanovsky-sergey"],
-                    tags: ["tools", "css"],
+                    tags: [],
                     translators: [],
                     content: "https://github.com/afelix/setochka/tree/master/README.md"
                 },
@@ -26,7 +26,7 @@ module.exports = {
                     summary: "Сеточка — инструмент для выделения CSS-свойств исходного CSS в отдельные файлы. Также может использоваться для удаления этих свойств без записи.",
                     thumbnail: "",
                     authors: ["kryzhanovsky-sergey"],
-                    tags: ["tools", "css"],
+                    tags: [],
                     translators: [],
                     content: "https://github.com/afelix/setochka/tree/master/README.ru.md"
                 }

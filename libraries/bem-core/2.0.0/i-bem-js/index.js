@@ -34,7 +34,7 @@ var getIBemJs = function() {
                 "summary": "i-bem.js guide book.",
                 "thumbnail": "",
                 "authors": ["maslinsky-kirill"],
-                "tags": ["bem-core","i-bem"],
+                "tags": ["bem-core","i-bem","javascript"],
                 "translators": [],
                 content: "https://github.com/bem/bem-core/tree/v2.0.0/common.docs/i-bem-js/i-bem-js.en.md"
             },
@@ -45,7 +45,7 @@ var getIBemJs = function() {
                 "summary": "Руководство пользователя.",
                 "thumbnail": "",
                 "authors": ["maslinsky-kirill"],
-                "tags": ["bem-core","i-bem"],
+                "tags": ["bem-core","i-bem","javascript"],
                 "translators": [],
                 content: "https://github.com/bem/bem-core/tree/v2.0.0/common.docs/i-bem-js/i-bem-js.ru.md"
             }

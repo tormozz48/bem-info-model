@@ -15,7 +15,7 @@ module.exports = {
                     summary: "Short description of bem-tools.",
                     thumbnail: "",
                     authors: ["harisov-vitaly"],
-                    tags: ["tools","bem-tools"],
+                    tags: ["bem-tools","overview"],
                     translators: [],
                     content: "https://github.com/bem/bem-tools/tree/dev/docs/index/index.en.md"
                 },
@@ -26,7 +26,7 @@ module.exports = {
                     summary: "bem-tools краткое описание.",
                     thumbnail: "",
                     authors: ["harisov-vitaly"],
-                    tags: ["tools","bem-tools"],
+                    tags: ["bem-tools","overview"],
                     translators: [],
                     content: "https://github.com/bem/bem-tools/tree/dev/docs/index/index.ru.md"
                 }
@@ -66,7 +66,7 @@ var getInstallation = function() {
                 summary: "bem-tools installation manual.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["tools","bem-tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/installation/installation.en.md"
             },
@@ -78,7 +78,7 @@ var getInstallation = function() {
                 summary: "Инструкция по установке bem-tools.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["tools","bem-tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/installation/installation.ru.md"
             }
@@ -105,7 +105,7 @@ var getCommands = function() {
                 summary: "The main bem-tools commands.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["tools","bem-tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/commands/commands.en.md"
             },
@@ -116,7 +116,7 @@ var getCommands = function() {
                 summary: "Описание основных команд bem-tools.",
                 thumbnail: "",
                 authors: ["jetpyspayeva-yelena"],
-                tags: ["tools","bem-tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/commands/commands.ru.md"
             }
@@ -143,7 +143,7 @@ var getLevels = function() {
                 summary: "Description of the level .bem/level.js.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/levels/levels.en.md"
             },
@@ -154,7 +154,7 @@ var getLevels = function() {
                 summary: "Описание уровеня переопределения .bem/level.js.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/levels/levels.ru.md"
             }
@@ -181,7 +181,7 @@ var getDependencies = function() {
                 summary: "deps.js — a technology to declare dependencies in BEM",
                 thumbnail: "",
                 authors: ["bashinsky-pavel"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/depsjs/depsjs.en.md"
             },
@@ -192,7 +192,7 @@ var getDependencies = function() {
                 summary: "deps.js — технология для декларирования зависимостей по БЭМ",
                 thumbnail: "",
                 authors: ["bashinsky-pavel"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/depsjs/depsjs.ru.md"
             }
@@ -219,7 +219,7 @@ var getCustomization = function() {
                 summary: "Description of the build customization.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["tools","bem-tools"],
+                tags: ["bem-tools"],
                 translators: ["varankin-vladimir"],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/customization/customization.en.md"
             },
@@ -230,7 +230,7 @@ var getCustomization = function() {
                 summary: "Описание кастомизации сборки.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["tools","bem-tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/customization/customization.ru.md"
             }
@@ -257,7 +257,7 @@ var getTechModules = function() {
                 summary: "Several ways to create a tech module.",
                 thumbnail: "",
                 authors: ["ivanichenko-sergey"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/tech-modules/tech-modules.en.md"
             },
@@ -268,7 +268,7 @@ var getTechModules = function() {
                 summary: "Способы создания модуля технологии.",
                 thumbnail: "",
                 authors: ["ivanichenko-sergey"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/tech-modules/tech-modules.ru.md"
             }
@@ -295,7 +295,7 @@ var getApiUsage = function() {
                 summary: "The document explains how use bem-tools from API.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["tools","bem-tools", "API"],
+                tags: ["bem-tools","api"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/api/api.en.md"
             },
@@ -306,7 +306,7 @@ var getApiUsage = function() {
                 summary: "Использование команды bem-tools через API.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["tools","bem-tools", "API"],
+                tags: ["bem-tools","api"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/api/api.ru.md"
             }
@@ -333,7 +333,7 @@ var getCreatingSubcommands = function() {
                 summary: "Starting from `bem-tools 1.0.0` it is possible to extend standard set of commands with subcommands modules.",
                 thumbnail: "",
                 authors: ["tatarincev-sergej"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/creating-subcommands/creating-subcommands.en.md"
             },
@@ -344,7 +344,7 @@ var getCreatingSubcommands = function() {
                 summary: "Начиная с версии `bem-tools` `1.0.0` cтандартный набор команд можно расширить при помощи модулей подкоманд.",
                 thumbnail: "",
                 authors: ["tatarincev-sergej"],
-                tags: ["bem-tools","tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/creating-subcommands/creating-subcommands.ru.md"
             }
@@ -371,7 +371,7 @@ var getContribute = function() {
                 summary: "Information about autotests execution.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["tools","bem-tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/contribute/contribute.en.md"
             },
@@ -382,7 +382,7 @@ var getContribute = function() {
                 summary: "Информация о запуске автотестов.",
                 thumbnail: "",
                 authors: ["alaev-vladimir"],
-                tags: ["tools","bem-tools"],
+                tags: ["bem-tools"],
                 translators: [],
                 content: "https://github.com/bem/bem-tools/tree/dev/docs/contribute/contribute.ru.md"
             }

@@ -32,7 +32,7 @@ var getReference100 = function() {
                 summary: "BEMHTML-reference.",
                 thumbnail: "",
                 authors: ["maslinsky-kirill", "ivanichenko-sergey"],
-                tags: ["BEMHTML"],
+                tags: ["bemhtml"],
                 translators: ["nekhaieva-aleksandra"],
                 content: "https://github.com/bem/bem-core/tree/v1.0.0/common.docs/reference/reference.en.md"
             },
@@ -43,7 +43,7 @@ var getReference100 = function() {
                 summary: "Cправочное руководство по шаблонизатору BEMHTML.",
                 thumbnail: "",
                 authors: ["maslinsky-kirill", "ivanichenko-sergey"],
-                tags: ["BEMHTML"],
+                tags: ["bemhtml"],
                 translators: [],
                 content: "https://github.com/bem/bem-core/tree/v1.0.0/common.docs/reference/reference.ru.md"
             }
@@ -66,7 +66,7 @@ var getReference110 = function() {
                 summary: "BEMHTML-reference.",
                 thumbnail: "",
                 authors: ["maslinsky-kirill", "ivanichenko-sergey"],
-                tags: ["BEMHTML"],
+                tags: ["bemhtml"],
                 translators: ["nekhaieva-aleksandra"],
                 content: "https://github.com/bem/bem-core/tree/v1.1.0/common.docs/reference/reference.en.md"
             },
@@ -77,7 +77,7 @@ var getReference110 = function() {
                 summary: "Cправочное руководство по шаблонизатору BEMHTML.",
                 thumbnail: "",
                 authors: ["maslinsky-kirill", "ivanichenko-sergey"],
-                tags: ["BEMHTML"],
+                tags: ["bemhtml"],
                 translators: [],
                 content: "https://github.com/bem/bem-core/tree/v1.1.0/common.docs/reference/reference.ru.md"
             }
@@ -100,7 +100,7 @@ var getRationale100 = function() {
                 summary: "BEMHTML: short overview, capabilities, comparison with other template engines.",
                 thumbnail: "",
                 authors: ["maslinsky-kirill"],
-                tags: ["BEMHTML"],
+                tags: ["bemhtml","overview"],
                 translators: ["nekhaieva-aleksandra"],
                 content: "https://github.com/bem/bem-core/tree/v1.0.0/common.docs/rationale/rationale.en.md"
             },
@@ -111,7 +111,7 @@ var getRationale100 = function() {
                 summary: "BEMHTML: краткая информация, возможности, сравнение с другими шаблонизаторами.",
                 thumbnail: "",
                 authors: ["maslinsky-kirill"],
-                tags: ["BEMHTML"],
+                tags: ["bemhtml","overview"],
                 translators: [],
                 content: "https://github.com/bem/bem-core/tree/v1.0.0/common.docs/rationale/rationale.ru.md"
             }
@@ -134,7 +134,7 @@ var getRationale110 = function() {
                 summary: "BEMHTML: short overview, capabilities, comparison with other template engines.",
                 thumbnail: "",
                 authors: ["maslinsky-kirill"],
-                tags: ["BEMHTML"],
+                tags: ["bemhtml"],
                 translators: ["nekhaieva-aleksandra"],
                 content: "https://github.com/bem/bem-core/tree/v1.1.0/common.docs/rationale/rationale.en.md"
             },
@@ -145,7 +145,7 @@ var getRationale110 = function() {
                 summary: "BEMHTML: краткая информация, возможности, сравнение с другими шаблонизаторами.",
                 thumbnail: "",
                 authors: ["maslinsky-kirill"],
-                tags: ["BEMHTML"],
+                tags: ["bemhtml"],
                 translators: [],
                 content: "https://github.com/bem/bem-core/tree/v1.1.0/common.docs/rationale/rationale.ru.md"
             }

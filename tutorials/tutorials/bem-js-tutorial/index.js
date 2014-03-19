@@ -18,7 +18,7 @@ module.exports = {
                     summary: "How to write client side JS using i-bem.js.",
                     thumbnail: "",
                     authors: ["stepanova-varvara"],
-                    tags: ["i-bem.js", "JavaScript"],
+                    tags: ["bem-core","i-bem","javascript"],
                     translators: ["stepanova-varvara"],
                     content: "https://github.com/bem/bem-method/tree/bem-info-data/tutorials/bem-js-tutorial/00-Intro/00-Intro.en.md"
                 },
@@ -29,7 +29,7 @@ module.exports = {
                     summary: "Блок i-bem реализован в нескольких технологиях, и одна из них — JavaScript.",
                     thumbnail: "",
                     authors: ["stepanova-varvara"],
-                    tags: ["i-bem.js", "JavaScript"],
+                    tags: ["bem-core","i-bem","javascript"],
                     translators: [],
                     content: "https://github.com/bem/bem-method/tree/bem-info-data/tutorials/bem-js-tutorial/00-Intro/00-Intro.ru.md"
                 }
@@ -62,7 +62,7 @@ var blockStructure = function() {
                 summary: "Any BEM block can be equipped with JavaScript.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["i-bem.js", "JavaScript"],
+                tags: ["i-bem","javascript"],
                 translators: ["stepanova-varvara"],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/tutorials/bem-js-tutorial/01-Block-structure/01-Block-structure.en.md"
             },
@@ -73,7 +73,7 @@ var blockStructure = function() {
                 summary: "Описание структуры БЭМ блока.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["i-bem.js", "JavaScript"],
+                tags: ["i-bem","javascript"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/tutorials/bem-js-tutorial/01-Block-structure/01-Block-structure.ru.md"
             }
@@ -111,7 +111,7 @@ var modifiers = function() {
                 summary: "В БЭМ модификаторы выражают состояние блока.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["i-bem.js", "JavaScript"],
+                tags: ["i-bem","javascript"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/tutorials/bem-js-tutorial/02-Modifiers/02-Modifiers.ru.md"
             }
@@ -138,7 +138,7 @@ var liveInit = function() {
                 summary: "Before a block starts to function the core initializes it.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["i-bem.js", "JavaScript"],
+                tags: ["i-bem","javascript"],
                 translators: ["stepanova-varvara"],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/tutorials/bem-js-tutorial/03-Live-initialization/03-Live-initialization.en.md"
             },
@@ -149,7 +149,7 @@ var liveInit = function() {
                 summary: "Перед началом работы блок инициализируется ядром.",
                 thumbnail: "",
                 authors: ["stepanova-varvara"],
-                tags: ["i-bem.js", "JavaScript"],
+                tags: ["i-bem","javascript"],
                 translators: [],
                 content: "https://github.com/bem/bem-method/tree/bem-info-data/tutorials/bem-js-tutorial/03-Live-initialization/03-Live-initialization.ru.md"
             }
